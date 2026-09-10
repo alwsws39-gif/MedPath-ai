@@ -1,0 +1,6 @@
+{
+  "name": "MedPath AI",
+  "description": "نظام ذكي للفرز والتوجيه الطبي وتوجيه المرضى للعيادات والأطباء المناسبين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
